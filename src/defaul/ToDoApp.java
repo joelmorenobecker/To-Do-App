@@ -1,5 +1,6 @@
 package defaul;
 
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -19,6 +20,7 @@ import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
 import javafx.scene.control.CheckBox;
 import javafx.scene.control.ComboBox;
+import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
 import javafx.scene.control.TextField;
 
@@ -292,6 +294,8 @@ public class ToDoApp extends Application implements EventHandler<ActionEvent> {
 		});
 
 		layout2.getChildren().add(taskInput);
+		Label lblDueDate = new Label("Frist");
+		layout2.getChildren().add(lblDueDate);
 		layout2.getChildren().add(cbxDueDate);
 		layout2.getChildren().add(dateInput);
 		layout2.getChildren().add(categoryBox);

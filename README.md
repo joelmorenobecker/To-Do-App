@@ -6,6 +6,12 @@ JavaFX-Desktopanwendung zum Verwalten von Aufgaben mit SQLite-Datenbank.
 
 
 
+!\[To Do App](screenshots/app (1).png)
+
+!\[To Do App](screenshots/app (2).png)
+
+
+
 ### Features
 
 

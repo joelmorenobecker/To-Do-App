@@ -1,5 +1,4 @@
 bin/
 *.class
 .settings/
-.project
-.classpath
+tasks.db
