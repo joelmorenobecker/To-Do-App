@@ -4,6 +4,8 @@
 
 JavaFX-Desktopanwendung zum Verwalten von Aufgaben mit SQLite-Datenbank.
 
+![To Do App](screenshots/app1.png)
+![To Do App](screenshots/app2.png)
 
 
 !\[To Do App](screenshots/app (1).png)
@@ -33,7 +35,7 @@ JavaFX-Desktopanwendung zum Verwalten von Aufgaben mit SQLite-Datenbank.
 
 ### Starten
 
-1. Repository klonen
+1\. Repository klonen
 
 2\. SQLite JAR liegt bereits unter lib/sqlite-jdbc-3.51.3.0.jar
 
